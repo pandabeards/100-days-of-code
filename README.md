@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
 ## Log
-* [Log - click here to see my progress](log.md)
+[Log - click here to see my progress](log.md)
 
 ## Dailies
 1. [Log progress](log.md)
