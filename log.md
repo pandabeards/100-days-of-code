@@ -12,3 +12,17 @@
 **Today's Progress:** More freecodecamp.org ES6 challenges on template literals and constructor functions.
 
 **Thoughts:** Definitely struggling on this one. Repeating exercises to make sure I understand the syntax(es).
+
+
+### Day 3: February 19, 2020
+
+**Today's Progress:** Finished the freecodecamp.org ES6 challenges and spent more time on the fullstack js course.
+
+**Thoughts:** The remaining chunks of the ES6 challenges were more familiar as they'd been covered more in the fullstack course. I'm running without sleep today, so instead of going onto the next set for regex, I've gone back to the fullstack course.
+
+
+### Day 4: February 20, 2020
+
+**Today's Progress:** Learned a bit of regex from freecodecamp I'll probably need to repeat and played around with an Angular library (mostly unsuccessfully).
+
+**Thoughts:** It was a bit of a slower day. Still recovering from sleep lacks. Tomorrow is another, more awake day.
