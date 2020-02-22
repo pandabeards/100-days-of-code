@@ -26,3 +26,17 @@
 **Today's Progress:** Learned a bit of regex from freecodecamp I'll probably need to repeat and played around with an Angular library (mostly unsuccessfully).
 
 **Thoughts:** It was a bit of a slower day. Still recovering from sleep lacks. Tomorrow is another, more awake day.
+
+
+### Day 5: February 21, 2020
+
+**Today's Progress:** Continued with the regex challenges on freecodecamp.
+
+**Thoughts:** Pretty interesting/fun so far. Though, I am looking forward to finishing this section and getting onto more 'practical applications'.
+
+
+### Day 6: February 22, 2020
+
+**Today's Progress:**
+
+**Thoughts:**
