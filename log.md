@@ -37,6 +37,6 @@
 
 ### Day 6: February 22, 2020
 
-**Today's Progress:**
+**Today's Progress:** Almost finished with the regex challenges — maybe one or two left. Spent some more time on the fullstack js course.
 
-**Thoughts:**
+**Thoughts:** I'm probably going to repeat some of the fullstack js course. There's a good bit of it that's fuzzy.
